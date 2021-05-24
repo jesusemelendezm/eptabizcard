@@ -5,8 +5,9 @@
         <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
         <compiled_page_registry display_value="Epta BizCard">790535311b507010dea22134604bcb55</compiled_page_registry>
         <description>Business Card Creator</description>
-        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
-        <global_search_data display_value="Epta BizCard Search Context Config">7905b5bd1b107010dea22134604bcbd5</global_search_data>
+        <global_search display_value="Workspace search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="">7905b5bd1b107010dea22134604bcbd5</global_search_data>
+        <hide_search_results_count>false</hide_search_results_count>
         <name>Epta BizCard</name>
         <navigation_type>breadcrumb</navigation_type>
         <notifications_enabled>true</notifications_enabled>

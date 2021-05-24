@@ -3,7 +3,9 @@
         <available_offline>false</available_offline>
         <description>Business Card Creator Bizcard</description>
         <dynamic_prefetch_count/>
+        <empty_state/>
         <fetch_type>not_required</fetch_type>
+        <filter/>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Address-Book">54e43dbd1b107010dea22134604bcb97</icon>

@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-05-24 04:46:52</sys_created_on>
-        <sys_id>3ec9fdf11b507010dea22134604bcbc7</sys_id>
+        <sys_id>71293571db14301003978e4748961980</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_18396_epta_bizca_bizcard</sys_name>
         <sys_package display_value="Epta BizCard" source="x_18396_epta_bizca">a203f5bd1b107010dea22134604bcba9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Epta BizCard">a203f5bd1b107010dea22134604bcba9</sys_scope>
-        <sys_update_name>ua_table_licensing_config_3ec9fdf11b507010dea22134604bcbc7</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_71293571db14301003978e4748961980</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-05-24 04:46:52</sys_updated_on>
     </ua_table_licensing_config>

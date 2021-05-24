@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-05-24 04:46:53</sys_created_on>
-            <sys_id>3ac9fdf11b507010dea22134604bcbcc</sys_id>
+            <sys_id>3d293571db14301003978e4748961984</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>business_card_style</sys_name>
             <sys_package display_value="Epta BizCard" source="x_18396_epta_bizca">a203f5bd1b107010dea22134604bcba9</sys_package>
@@ -25,6 +25,7 @@
             <language>en</language>
             <name>x_18396_epta_bizca_bizcard</name>
             <sequence/>
+            <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-05-24 04:46:54</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -44,6 +45,7 @@
             <language>en</language>
             <name>x_18396_epta_bizca_bizcard</name>
             <sequence/>
+            <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-05-24 04:46:53</sys_created_on>
             <sys_domain>global</sys_domain>
