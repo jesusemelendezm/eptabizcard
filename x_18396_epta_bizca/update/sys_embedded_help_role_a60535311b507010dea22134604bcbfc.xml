@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="epta_bizcard" name="epta_bizcard">a60535311b507010dea22134604bcbf9</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 04:48:20</sys_created_on>
+        <sys_id>a60535311b507010dea22134604bcbfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a60535311b507010dea22134604bcbf9</sys_name>
+        <sys_package display_value="Epta BizCard" source="x_18396_epta_bizca">a203f5bd1b107010dea22134604bcba9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Epta BizCard">a203f5bd1b107010dea22134604bcba9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a60535311b507010dea22134604bcbfc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 04:48:20</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

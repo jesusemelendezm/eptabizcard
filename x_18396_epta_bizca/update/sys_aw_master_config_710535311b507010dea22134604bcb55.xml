@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="Epta BizCard">790535311b507010dea22134604bcb55</compiled_page_registry>
+        <description>Business Card Creator</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Epta BizCard Search Context Config">7905b5bd1b107010dea22134604bcbd5</global_search_data>
+        <name>Epta BizCard</name>
+        <navigation_type>breadcrumb</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 04:48:16</sys_created_on>
+        <sys_id>710535311b507010dea22134604bcb55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Epta BizCard</sys_name>
+        <sys_package display_value="Epta BizCard" source="x_18396_epta_bizca">a203f5bd1b107010dea22134604bcba9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Epta BizCard">a203f5bd1b107010dea22134604bcba9</sys_scope>
+        <sys_update_name>sys_aw_master_config_710535311b507010dea22134604bcb55</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 04:48:16</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>epta_bizcard</workspace_url>
+    </sys_aw_master_config>
+</record_update>

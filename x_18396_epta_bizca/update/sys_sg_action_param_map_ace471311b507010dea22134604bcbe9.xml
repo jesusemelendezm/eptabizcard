@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Bizcard)">e8e471311b507010dea22134604bcbcb</button>
+        <item_parameter display_value="Bizcard title">6ce471311b507010dea22134604bcbca</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 04:47:39</sys_created_on>
+        <sys_id>ace471311b507010dea22134604bcbe9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6ce471311b507010dea22134604bcbca</sys_name>
+        <sys_package display_value="Epta BizCard" source="x_18396_epta_bizca">a203f5bd1b107010dea22134604bcba9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Epta BizCard">a203f5bd1b107010dea22134604bcba9</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_ace471311b507010dea22134604bcbe9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 04:47:39</sys_updated_on>
+        <ui_parameter display_value="Title">a0e471311b507010dea22134604bcbe7</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

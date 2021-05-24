@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_content_placeholder_elem">
+    <sys_ux_content_placeholder_elem action="INSERT_OR_UPDATE">
+        <attrs/>
+        <children/>
+        <component/>
+        <is_root>false</is_root>
+        <layout/>
+        <limit>1</limit>
+        <macroponent/>
+        <macroponent_config/>
+        <name>Landing Page Placeholder</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent display_value="Home Module Content">d20535311b507010dea22134604bcbae</parent>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <sys_class_name>sys_ux_content_placeholder_elem</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-24 04:48:19</sys_created_on>
+        <sys_id>220535311b507010dea22134604bcbf1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Landing Page Placeholder</sys_name>
+        <sys_package display_value="Epta BizCard" source="x_18396_epta_bizca">a203f5bd1b107010dea22134604bcba9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Epta BizCard">a203f5bd1b107010dea22134604bcba9</sys_scope>
+        <sys_update_name>sys_ux_content_placeholder_elem_220535311b507010dea22134604bcbf1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-24 04:48:19</sys_updated_on>
+        <tree_root display_value="Home Module Content">d20535311b507010dea22134604bcbae</tree_root>
+    </sys_ux_content_placeholder_elem>
+    <sys_variable_value action="delete_multiple" query="document_key=220535311b507010dea22134604bcbf1"/>
+</record_update>

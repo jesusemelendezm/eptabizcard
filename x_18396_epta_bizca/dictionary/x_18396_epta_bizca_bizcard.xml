@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Bizcard" max_length="40" name="x_18396_epta_bizca_bizcard" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="standard" label="Business Card Style" max_length="40" name="business_card_style" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Exclusive" value="exclusive"/>
+                <element inactive_on_update="false" label="Standard" value="standard"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="E-mail" max_length="40" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mobile" max_length="40" name="mobile" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="80" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone" max_length="40" name="phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Shipping Address" max_length="100" name="shipping_address" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Website" max_length="40" name="website" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
