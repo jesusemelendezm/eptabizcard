@@ -7,6 +7,7 @@
                 <element inactive_on_update="false" label="Standard" value="standard"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Cost Center" max_length="32" name="cost_center" reference="cmn_cost_center" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="E-mail" max_length="40" name="email" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Mobile" max_length="40" name="mobile" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="80" name="name" type="string"/>
@@ -17,6 +18,9 @@
         <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="title" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Website" max_length="40" name="website" type="string"/>
         <index name="index">
+            <element name="cost_center"/>
+        </index>
+        <index name="index2">
             <element name="sys_class_name"/>
         </index>
     </element>

@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="title" table="x_18396_epta_bizca_bizcard">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="cost_center" table="x_18396_epta_bizca_bizcard">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>edge_encryption_enabled=true</attributes>
+        <attributes>edge_encryption_enabled=true,encode_utf8=false</attributes>
         <audit>false</audit>
-        <calculation/>
-        <choice>0</choice>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Title</column_label>
+        <column_label>Cost Center</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -22,20 +27,20 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>title</element>
+        <element>cost_center</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Reference">reference</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>32</max_length>
         <name>x_18396_epta_bizca_bizcard</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference/>
+        <reference display_value="" name="cmn_cost_center">cmn_cost_center</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -47,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-05-24 04:46:53</sys_created_on>
-        <sys_id>fec9fdf11b507010dea22134604bcbbb</sys_id>
+        <sys_created_on>2021-05-24 05:07:45</sys_created_on>
+        <sys_id>3a5975f11b507010dea22134604bcb86</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Title</sys_name>
+        <sys_name>Cost Center</sys_name>
         <sys_package display_value="Epta BizCard" source="x_18396_epta_bizca">a203f5bd1b107010dea22134604bcba9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Epta BizCard">a203f5bd1b107010dea22134604bcba9</sys_scope>
-        <sys_update_name>sys_dictionary_x_18396_epta_bizca_bizcard_title</sys_update_name>
+        <sys_update_name>sys_dictionary_x_18396_epta_bizca_bizcard_cost_center</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-05-24 05:09:07</sys_updated_on>
+        <sys_updated_on>2021-05-24 05:07:45</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
